@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name":"Jaket Nike Pria UK 'L'",
+        "price": 300,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":"Jaket Wranger Pria UK 'L'",
+        "price": 220,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":"Jaket Levis Unisex UK 'L'",
+        "price": 240,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":"Flannel Uniqlo Unisex UK 'XL' ",
+        "price": 200,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":"Jaket Dickies Pria UK 'L'",
+        "price": 300,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":"Jaket Musim Dingin Lacoste Unisex UK 'XL' ",
+        "price": 200,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":"Jaket Musim Dingin Homme Unisex UK 'XL' ",
+        "price": 200,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":"Jaket Kulit Zara Wanita UK 'L'",
+        "price": 200,
+        "image": "image/8.png"
+    },
+    {
+        "id": 9,
+        "name":"Tas Ransel ABC",
+        "price": 150,
+        "image": "image/9.png"
+    },
+    {
+        "id": 10,
+        "name":"Sepatu Sneakers XYZ",
+        "price": 200,
+        "image": "image/10.png"
+    },
+    {
+        "id": 11,
+        "name":"Topi Baseball UVW",
+        "price": 50,
+        "image": "image/11.png"
+    } ,   
+    {
+        "id": 12,
+        "name":"Topi Baseball UVW",
+        "price": 50,
+        "image": "image/1.png"
+    } 
+]
