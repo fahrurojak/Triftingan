@@ -38,7 +38,7 @@
     {
         "id": 7,
         "name":"Jaket Musim Dingin Homme Unisex UK 'XL' ",
-        "price": 200,
+        "price": 270,
         "image": "image/7.png"
     },
     {
@@ -49,26 +49,26 @@
     },
     {
         "id": 9,
-        "name":"Tas Ransel ABC",
-        "price": 150,
+        "name":"Gucci x The north face beige gg puffer jacket UK 'XL'",
+        "price": 680,
         "image": "image/9.png"
     },
     {
         "id": 10,
-        "name":"Sepatu Sneakers XYZ",
-        "price": 200,
+        "name":"Jaket Dickies Nylon Work Pria UK 'L'",
+        "price": 280,
         "image": "image/10.png"
     },
     {
         "id": 11,
-        "name":"Topi Baseball UVW",
-        "price": 50,
+        "name":"Varsity jaket Unisex UK 'M'",
+        "price": 200,
         "image": "image/11.png"
     } ,   
     {
         "id": 12,
-        "name":"Topi Baseball UVW",
-        "price": 50,
-        "image": "image/1.png"
+        "name":"Jaket Nike track 80s Unisex UK 'L'",
+        "price": 200,
+        "image": "image/12.png"
     } 
 ]

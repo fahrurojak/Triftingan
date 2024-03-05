@@ -173,9 +173,8 @@ const changeQuantityCart = (product_id, type) => {
 
 // Event listener for the "Check Out" button
 document.querySelector('.checkOut').addEventListener('click', () => {
-    // Construct the WhatsApp URL with the appropriate parameters
-    const phoneNumber = '+6282121212426'; // Replace with your WhatsApp number
-    const message = 'Hello! I would like to check out my shopping cart.';
+    const phoneNumber = '+6282121212426';
+    const message = 'Hallo Kak, Ingin menanyakan Produk Apakah Ready?';
     const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
 
     // Redirect the user to the WhatsApp URL
